@@ -13,14 +13,14 @@
 </div>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bieldesign" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bieldesign&theme=highcontrast" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bieldesign&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bieldesign&layout=compact&langs_count=8&card_width=320&theme=highcontrast" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bieldesigna&repo=markdown-previewer" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bieldesign&repo=drum-machine&theme=highcontrast" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bieldesign&repo=Quote-machine" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bieldesign&repo=Quote-Machine&theme=highcontrast" />
 </a>
